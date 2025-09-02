@@ -1,0 +1,20 @@
+h1 {
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+    font-size: xx-large;
+}
+
+h2 {
+    color: mediumpurple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+    font-size: large;
+}
+
+p {
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+    font-size: small;
+}
