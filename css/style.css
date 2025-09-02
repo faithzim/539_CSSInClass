@@ -6,10 +6,13 @@ h1 {
 }
 
 h2 {
-    color: mediumpurple;
+    color: rgb(6, 86, 86);
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 10px;
     font-size: large;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: cyan;
 }
 
 p {
@@ -17,4 +20,12 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 10px;
     font-size: small;
+}
+
+li {
+    list-style-type: square;
+}
+
+body {
+    background-color: blanchedalmond;
 }
